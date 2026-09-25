@@ -1,0 +1,18 @@
+node_modules/
+build/
+.react-router/
+coverage/
+.env
+.env.*
+!.env.example
+.playwright-cli/
+output/
+
+# Local visual references and superseded ASCII generators
+design/
+art/hero-mask.txt
+art/hero-narrow.txt
+art/hero-source.txt
+art/hero-wide.txt
+tools/build_ascii.py
+tools/complete_hero.py

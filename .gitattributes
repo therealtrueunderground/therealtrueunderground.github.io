@@ -1,0 +1,2 @@
+# Keep ASCII art identical in prerendered HTML and browser bundles.
+art/*.txt text eol=lf
